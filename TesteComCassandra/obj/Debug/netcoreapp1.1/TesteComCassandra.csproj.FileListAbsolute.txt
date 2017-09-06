@@ -1,0 +1,9 @@
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\bin\Debug\netcoreapp1.1\TesteComCassandra.deps.json
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\bin\Debug\netcoreapp1.1\TesteComCassandra.runtimeconfig.json
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\bin\Debug\netcoreapp1.1\TesteComCassandra.runtimeconfig.dev.json
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\bin\Debug\netcoreapp1.1\TesteComCassandra.dll
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\obj\Debug\netcoreapp1.1\TesteComCassandra.csprojResolveAssemblyReference.cache
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\obj\Debug\netcoreapp1.1\TesteComCassandra.AssemblyInfo.cs
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\bin\Debug\netcoreapp1.1\TesteComCassandra.pdb
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\obj\Debug\netcoreapp1.1\TesteComCassandra.dll
+D:\projetos\dotnet\TesteComCassandra\TesteComCassandra\obj\Debug\netcoreapp1.1\TesteComCassandra.pdb

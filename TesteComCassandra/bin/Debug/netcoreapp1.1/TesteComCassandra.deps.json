@@ -1,0 +1,128 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "2e8d4bdfd7f1f45619fdffda1f069c0ca59dae65"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "testecomcassandra/1.0.0": {
+        "dependencies": {
+          "CassandraCSharpDriver": "3.3.2"
+        },
+        "runtime": {
+          "TesteComCassandra.dll": {}
+        }
+      },
+      "cassandracsharpdriver/3.3.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
+          "System.Data.Common": "4.1.0",
+          "System.Diagnostics.TraceSource": "4.0.0",
+          "System.Runtime.Serialization.Primitives": "4.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Cassandra.dll": {}
+        }
+      },
+      "microsoft.extensions.dependencyinjection.abstractions/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "microsoft.extensions.logging/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Microsoft.Extensions.Logging.dll": {}
+        }
+      },
+      "microsoft.extensions.logging.abstractions/1.0.0": {
+        "runtime": {
+          "lib/netstandard1.1/Microsoft.Extensions.Logging.Abstractions.dll": {}
+        }
+      },
+      "system.data.common/4.1.0": {
+        "runtime": {
+          "lib/netstandard1.2/System.Data.Common.dll": {}
+        }
+      },
+      "system.diagnostics.tracesource/4.0.0": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.runtime.serialization.primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testecomcassandra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cassandracsharpdriver/3.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XrNfyfAbfdMfl1lj6TGx685+htQenQEQPkaRUMaHvFrA/x0fcslcOkPtIpd47xMS+2lHohxk05QNTxTLfsnoiA==",
+      "path": "cassandracsharpdriver/3.3.2",
+      "hashPath": "cassandracsharpdriver.3.3.2.nupkg.sha512"
+    },
+    "microsoft.extensions.dependencyinjection.abstractions/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p1c01arJpy7GEY95R5HgfR7U03qvhIcEepk7EPKKxnIJAVFPTkBFd0m6lD5OybWlLVm19FIhm5ONvHmViBSaFA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/1.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.1.0.0.nupkg.sha512"
+    },
+    "microsoft.extensions.logging/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0mDuASVrd/nMeBYIJSK+9lT3TSmWxUXP/ipVB1pF1ApMN5fqGCckPTNwmOfT4Z9wPkXGnhbwFTGrxZvbzTWxOg==",
+      "path": "microsoft.extensions.logging/1.0.0",
+      "hashPath": "microsoft.extensions.logging.1.0.0.nupkg.sha512"
+    },
+    "microsoft.extensions.logging.abstractions/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7XWJBVHegG47VhVkPlDjx3AH++vQkpU0/Uw0C02iPEbt54uXDH6oY1UDRgXhZOWx62RP3E1EaHOjqquYDRvIsQ==",
+      "path": "microsoft.extensions.logging.abstractions/1.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.1.0.0.nupkg.sha512"
+    },
+    "system.data.common/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UYdMDAUyLdhpi9Uoh+jtKZ1ToFP8L6ltynB1U+mnjvjL7hsNSKYFSL5xOI6UpIQBZex1GvedGMDJp5648oqkQQ==",
+      "path": "system.data.common/4.1.0",
+      "hashPath": "system.data.common.4.1.0.nupkg.sha512"
+    },
+    "system.diagnostics.tracesource/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "path": "system.diagnostics.tracesource/4.0.0",
+      "hashPath": "system.diagnostics.tracesource.4.0.0.nupkg.sha512"
+    },
+    "system.runtime.serialization.primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "path": "system.runtime.serialization.primitives/4.1.1",
+      "hashPath": "system.runtime.serialization.primitives.4.1.1.nupkg.sha512"
+    }
+  }
+}
